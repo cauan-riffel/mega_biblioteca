@@ -22,18 +22,14 @@ Ideia do projeto foi gerada usando chatGPT, a descrição completa do projeto es
    - **Busca por Livro**: Pesquisa por título, autor, ISBN e gênero.
    - **Busca por Usuário**: Pesquisa por nome ou número de identificação para consultar histórico de empréstimos.
 
-5. **Interface de Usuário**
-   - **Interface Baseada em Texto**: Permite a interação através do terminal (opcional, mas recomendável para protótipo).
-   - **Interface Gráfica**: Se estiver usando uma biblioteca como Qt, criar uma interface gráfica amigável.
-
-6. **Persistência de Dados**
+5. **Persistência de Dados**
    - **Armazenamento em Arquivos**: Salvar dados em arquivos de texto ou binários.
    - **Banco de Dados**: Alternativamente, usar um banco de dados SQL como SQLite para persistência.
 
-7. **Validação de Entrada**
+6. **Validação de Entrada**
    - **Validação de Dados**: Garantir que as entradas do usuário (como IDs de livros e usuários) sejam válidas e formatadas corretamente.
 
-8. **Relatórios e Estatísticas**
+7. **Relatórios e Estatísticas**
    - **Relatórios de Livros**: Relatórios de livros emprestados, disponíveis e reservados.
    - **Relatórios de Usuários**: Relatórios de usuários com livros emprestados, histórico de devoluções, etc.
 
